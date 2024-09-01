@@ -20,6 +20,3 @@ jobs:
 
       - name: Time Counter
         run: cmd /c loop.bat
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
